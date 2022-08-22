@@ -1,0 +1,2 @@
+# modelling-ML-matlab
+This project is a part of mandatory task or a final project in modelling and machine learning course in college. This repository contains the .m file that related to the Matlab code for the model. This project uses balance-set-data from psychology inferred to Psychological Balance, which is associated with psychological continuity across time (Fraley and Roberts, 2005) and an ability to cope with daily challenges (Nielsen and Knardahl, 2014).
